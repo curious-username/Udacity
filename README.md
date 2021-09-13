@@ -1,10 +1,9 @@
-# Udacity
-All my Udacity Projects
+Aug 21:<br>
+<h3>Intro To Programming</h3>
+<p>Branch Location: intro<br>
+  Languages Used: HTML, CSS, Javascript, Python
+</p>
+  
 
-
-Aug 21:
-Intro To Programming - See intro branch
-
-HTML, CSS, Javascript, Python
 
 
